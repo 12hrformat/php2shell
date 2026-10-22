@@ -177,7 +177,7 @@ a complete mitigation.
 This PoC is published for **educational and authorized security testing** only.
 Unauthorized use against systems you do not own or have explicit written permission
 to test is illegal. The crash induced by `splat.py` causes a single PHP-FPM worker
-to die; PHP-FPM restarts it automatically.
+to die; PHP-FPM restarts it automatically. This POC is not mine! credits to its original owner
 
 ## References
 
